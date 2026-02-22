@@ -1,6 +1,6 @@
-#Learning Journal – Prac 2: Introduction to Joomla CMS
-###Week: Prac 2
-###Link: https://decisiontraceweb.joomla.com/
+# Learning Journal – Prac 2: Introduction to Joomla CMS
+### Week: Prac 2
+### Link: https://decisiontraceweb.joomla.com/
 
 
 ## Learning Activities & Resources
@@ -23,3 +23,4 @@
 ## Career/Employability/Learning Insights
 
 - This week highlighted the importance of understanding why a system works the way it does, rather than just learning which buttons to click. I also noticed that watching longer tutorial videos was less effective for me than short, targeted resources & videos immediately after encountering a problem. In future weeks, I plan to continue this approach by identifying gaps during practical work and then using focused documentation or short tutorials to address them, rather than trying to learn everything in advance.
+
